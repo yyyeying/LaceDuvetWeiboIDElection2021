@@ -13,6 +13,7 @@ class BaseRace(object):
 
     def __init__(self):
         print('New race init: {}'.format(self.name))
+        self.groups = []
         pass
 
     def setup_race(self):

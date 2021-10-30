@@ -7,6 +7,9 @@ class BaseCandidateRace(object):
 
     def __init__(self, group: str):
         self.group = group
+        self.score = 0
+        self.finish = False
+        self.win = False
 
     def set_score(self, score: int):
         self.score = score

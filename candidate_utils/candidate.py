@@ -18,6 +18,7 @@ class Candidate(object):
         self.number = number
         self.name = name
         self.category = category
+        self.race_history = RaceHistory()
 
     def dump(self) -> dict:
         dump = {'编号': self.number,
@@ -41,7 +42,7 @@ race_dict = {'小组赛': GroupCandidateRace}
 
 
 def read_from_json(candidate_json: dict):
-    print(candidate_json)
+    # print(candidate_json)
     category = None
     for c in CandidateCategory:
         if c.value == candidate_json['类别']:
