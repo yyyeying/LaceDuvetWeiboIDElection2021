@@ -53,3 +53,4 @@ def set_race_result_by_group(group: str, result: Dict[str, List[Union[int, bool]
                 candidate.race_history.group_race.set_result(score[1])
     for candidate in candidate_list:
         print(candidate.dump())
+        candidate.save_to_archive()
