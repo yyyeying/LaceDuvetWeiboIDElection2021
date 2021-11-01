@@ -50,7 +50,7 @@
 
 蕾丝豹子d酱 / 蕾丝虾饺d酱 / 蕾丝香河肉饼d酱 / 蕾丝灌汤包d酱 / 蕾丝烧饼d酱 / 蕾丝卤煮d酱
 
-![A组比赛结果](documents\race_profile\result_board\幻灯片2.JPG)
+![A组比赛结果](documents\race_profile\result_board\Group_A.JPG)
 
 #### B组
 
@@ -98,7 +98,7 @@
 
 蕾丝豆汁d酱 / 蕾丝包包d酱 / 蕾丝馒头d酱 / 蕾包丝子d酱 / 蕾丝傻狍子d酱
 
-![E组比赛结果](documents\race_profile\result_board\幻灯片3.JPG)
+![E组比赛结果](documents\race_profile\result_board\Group_E.JPG)
 
 #### F组
 
