@@ -54,18 +54,9 @@
 
 #### B组
 
-蕾丝包纸d酱
+蕾丝包纸d酱 / 蕾丝大懒龙d酱 / 蕾丝包子d酱XWB / 蕾丝饺子d酱 / 蕾丝馅儿饼d酱 / 蕾丝纸包不住火d酱
 
-蕾丝大懒龙d酱
-
-蕾丝包子d酱XWB
-
-蕾丝饺子d酱
-
-蕾丝馅儿饼d酱
-
-蕾丝纸包不住火d酱
-
+![B组比赛结果](documents/race_profile/result_board/Group_B.JPG)
 #### C组
 
 蕾丝傻子d酱
@@ -102,15 +93,9 @@
 
 #### F组
 
-蕾丝狍子d酱
+蕾丝狍子d酱 / 蕾丝肘子d酱 / 蕾丝馄饨d酱 / 蕾丝糯米鸡d酱 / d丝酱包子雷
 
-蕾丝肘子d酱
-
-蕾丝馄饨d酱
-
-蕾丝糯米鸡d酱
-
-d丝酱包子雷
+![F组比赛结果](documents/race_profile/result_board/Group_F.JPG)
 
 #### G组
 
