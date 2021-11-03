@@ -14,7 +14,7 @@
 
 > <b>今日赛程</b>
 > 
-> 今天是11月3日，正在进行小组赛C组和G组的比赛，您可以[点击这里](https://tp.wjx.top/vj/m3scTrk.aspx)进入投票页面。
+> 今天是11月4日，正在进行小组赛D组和H组的比赛，您可以[点击这里](https://tp.wjx.top/vj/wGyK4w2.aspx)进入投票页面。
 
 ### 测试赛
 10月31日将举行总选举的测试赛，用于最终决定使用何种方式开展投票。
@@ -44,6 +44,8 @@
 
 11月4日：举行D组、H组的小组赛。得票最多的2位选手晋级。
 
+[11月4日小组赛投票链接](https://tp.wjx.top/vj/wGyK4w2.aspx)
+
 11月5日：如果小组赛中有第二、三名平局的情况，将邀请特别评委d酱参与评审，d酱有投一票等于两票的权利。如果仍未分出胜负，将进行加时赛。
 
 小组赛过后，将共有16位选手晋级1/8决赛！
@@ -62,17 +64,9 @@
 ![B组比赛结果](documents/race_profile/result_board/Group_B.JPG)
 #### C组
 
-蕾丝傻子d酱
+蕾丝傻子d酱 / 蕾丝流心奶黄包d酱 / 蕾丝勺子d酱 / 蕾丝包孑d酱 / 蕾丝面条炸酱 / 蕾丝雹子d酱
 
-蕾丝流心奶黄包d酱
-
-蕾丝勺子d酱
-
-蕾丝包孑d酱
-
-蕾丝面条炸酱
-
-蕾丝雹子d酱
+![C组比赛结果](documents/race_profile/result_board/Group_C.JPG)
 
 #### D组
 
@@ -88,6 +82,8 @@
 
 蕾丝包孓d酱
 
+![D组比赛结果](documents/race_profile/result_board/Group_D.JPG)
+
 #### E组
 
 蕾丝豆汁d酱 / 蕾丝包包d酱 / 蕾丝馒头d酱 / 蕾包丝子d酱 / 蕾丝傻狍子d酱
@@ -102,15 +98,9 @@
 
 #### G组
 
-蕾丝锅盔d酱
+蕾丝锅盔d酱 / 蕾丝元宵d酱 / 蕾丝包了d酱 / 蕾丝烧卖d酱 / 蕾丝糯米团子d酱
 
-蕾丝元宵d酱
-
-蕾丝包了d酱
-
-蕾丝烧卖d酱
-
-蕾丝糯米团子d酱
+![G组比赛结果](documents/race_profile/result_board/Group_G.JPG)
 
 #### H组
 
@@ -123,6 +113,8 @@
 蕾丝叉烧包d酱
 
 蕾丝粽子d酱
+
+![H组比赛结果](documents/race_profile/result_board/Group_H.JPG)
 
 ### 1/8决赛
 小组赛之后将有16位选手胜出，我们将重新进行抽签，对这16位选手进行分组。
