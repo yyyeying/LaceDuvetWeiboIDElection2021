@@ -34,7 +34,7 @@ def get_candidate_info_by_group(group: str):
         candidate: Candidate = read_from_archive(os.path.join(profile_path, path))
         if group == 'all':
             candidate_list.append(candidate)
-        elif candidate.race_history.group_race.group == group:
+        elif candidate.race_history.half_quarter_race.group == group:
             candidate_list.append(candidate)
     return candidate_list
 
@@ -49,8 +49,8 @@ def set_race_result_by_group(group: str, result: Dict[str, List[Union[int, bool]
             # print(candidate.name)
             if candidate.name == name:
                 # print(candidate.name)
-                candidate.race_history.group_race.set_score(score[0])
-                candidate.race_history.group_race.set_result(score[1])
+                candidate.race_history.half_quarter_race.set_score(score[0])
+                candidate.race_history.half_quarter_race.set_result(score[1])
     for candidate in candidate_list:
         print(candidate.dump())
         candidate.save_to_archive()

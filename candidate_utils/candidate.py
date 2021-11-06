@@ -6,6 +6,10 @@ from candidate_race_utils.history import RaceHistory
 from utils import read_json
 
 from candidate_race_utils.group import GroupCandidateRace
+from candidate_race_utils.half_quarter import HalfQuarterCandidateRace
+from candidate_race_utils.quarter import QuarterCandidateRace
+from candidate_race_utils.half import HalfCandidateRace
+from candidate_race_utils.final import FinalCandidateRace
 
 
 class Candidate(object):
@@ -38,7 +42,13 @@ def read_from_archive(path: str):
     return read_from_json(read_json(path))
 
 
-race_dict = {'小组赛': GroupCandidateRace}
+race_dict = {'小组赛': GroupCandidateRace,
+             '1/8决赛': HalfQuarterCandidateRace,
+             '八分之一决赛': HalfQuarterCandidateRace,
+             '1/4决赛': QuarterCandidateRace,
+             '四分之一决赛': QuarterCandidateRace,
+             '半决赛': HalfCandidateRace,
+             '决赛': FinalCandidateRace}
 
 
 def read_from_json(candidate_json: dict):
@@ -56,4 +66,12 @@ def read_from_json(candidate_json: dict):
         new_race.set_result(race_info['结果'])
         if race_name == '小组赛':
             candidate.race_history.group_race = new_race
+        elif race_name == '1/8决赛' or race_name == '八分之一决赛':
+            candidate.race_history.half_quarter_race = new_race
+        elif race_name == '1/4决赛' or race_name == '四分之一决赛':
+            candidate.race_history.quarter_race = new_race
+        elif race_name == '半决赛':
+            candidate.race_history.half_race = new_race
+        elif race_name == '决赛':
+            candidate.race_history.final_race = new_race
     return candidate
