@@ -9,7 +9,7 @@ from race_utils.candidate_group import Group
 
 
 class HalfQuarterRace(BaseRace):
-    name: str = '1/8决赛'
+    name: str = '八分之一决赛'
 
     def __init__(self):
         super(HalfQuarterRace, self).__init__()
@@ -36,8 +36,8 @@ class HalfQuarterRace(BaseRace):
         print(new_group)
         for i in range(length):
             candidate = candidates.pop()
-            candidate.race_history.group_race = HalfQuarterCandidateRace(name)
+            candidate.race_history.half_quarter_race = HalfQuarterCandidateRace(name)
             new_group.append_candidate(candidate)
             print(candidate.dump())
-            candidate.save_to_archive()
+            # candidate.save_to_archive()
         self.groups.append(new_group)
