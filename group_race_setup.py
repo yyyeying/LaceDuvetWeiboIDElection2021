@@ -1,6 +1,3 @@
-import os
-import random
-
 from race_utils.group import GroupRace
 
 
