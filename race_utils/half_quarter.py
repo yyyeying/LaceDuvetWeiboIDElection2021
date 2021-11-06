@@ -39,5 +39,5 @@ class HalfQuarterRace(BaseRace):
             candidate.race_history.half_quarter_race = HalfQuarterCandidateRace(name)
             new_group.append_candidate(candidate)
             print(candidate.dump())
-            # candidate.save_to_archive()
+            candidate.save_to_archive()
         self.groups.append(new_group)
