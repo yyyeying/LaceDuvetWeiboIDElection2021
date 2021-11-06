@@ -14,7 +14,7 @@
 
 > <b>今日赛程</b>
 > 
-> 今天是11月4日，正在进行小组赛D组和H组的比赛，您可以[点击这里](https://tp.wjx.top/vj/wGyK4w2.aspx)进入投票页面。
+> 今天是11月8日，正在进行小组赛D组和H组的比赛，您可以[点击这里](https://tp.wjx.top/vj/r9nRI0b.aspx) 进入投票页面。
 
 ### 淘汰赛阶段实时赛程
 ![淘汰赛阶段实时赛程](documents/race_profile/淘汰赛.jpg)
