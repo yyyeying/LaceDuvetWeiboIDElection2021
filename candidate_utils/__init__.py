@@ -32,9 +32,10 @@ def get_candidate_info_by_group(group: str):
     candidate_list = []
     for path in candidate_path_list:
         candidate: Candidate = read_from_archive(os.path.join(profile_path, path))
+        # print(candidate.dump())
         if group == 'all':
             candidate_list.append(candidate)
-        elif candidate.race_history.half_quarter_race.group == group:
+        elif candidate.race_history.half_quarter_race and candidate.race_history.half_quarter_race.group == group:
             candidate_list.append(candidate)
     return candidate_list
 
